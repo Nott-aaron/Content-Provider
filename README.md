@@ -1116,6 +1116,20 @@ Location: `app/src/main/res/values/themes.xml`
 | **TC-08** | **Share Contact** | Tap "Share Contact" button | Android Sharesheet chooser appears showing messaging/email apps to share contact details. | Passed |
 
 ---
+## Screenshots
+<img width="746" height="1600" alt="1" src="https://github.com/user-attachments/assets/8f522475-36ad-4e3b-9483-905e6bfad866" />
+
+<img width="746" height="1600" alt="2" src="https://github.com/user-attachments/assets/7029a063-32b6-491b-9ae0-48cda7666ec2" />
+
+<img width="746" height="1600" alt="3" src="https://github.com/user-attachments/assets/5961219e-476f-4aaf-8214-8f8e8933f327" />
+
+<img width="746" height="1600" alt="4" src="https://github.com/user-attachments/assets/50338565-41ae-4c43-b428-00c38361ddc0" />
+
+<img width="746" height="1600" alt="5" src="https://github.com/user-attachments/assets/70dc20f3-bbfc-4e24-919c-c67ec407bb1c" />
+
+
+---
+
 
 ## 🔬 Lab Record Details
 
