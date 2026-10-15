@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Green and White Color Palette -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_primary">#FF2E7D32</color>
+    <color name="green_primary_dark">#FF1B5E20</color>
+    <color name="green_primary_light">#FFE8F5E9</color>
+    <color name="green_accent">#FF4CAF50</color>
+    <color name="green_border">#FFC8E6C9</color>
+    <color name="green_text_dark">#FF0D3311</color>
+    <color name="green_text_medium">#FF38663D</color>
+    <color name="green_text_muted">#FF558B2F</color>
+    <color name="green_subtle_bg">#FFF4FBF5</color>
+    <color name="background_light">#FFF7FAF7</color>
+</resources>
